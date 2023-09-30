@@ -1,42 +1,53 @@
-# AI Development Tools for Developers
-
-A curated list of AI-powered tools and platforms aimed to enhance and expedite the development process.
+# AI Tools for Developers by Tech Optimum
 
 ## Table of Contents
-
+- [Programming AI Tools](#programming-ai-tools)
+- [Design Tools](#design-tools)
 - [AI-Powered Coding Assistants](#ai-powered-coding-assistants)
-- [Automated Code Generation](#automated-code-generation)
 - [AI for Code Review](#ai-for-code-review)
 - [AI for Debugging](#ai-for-debugging)
-- [Natural Language Processing](#natural-language-processing)
-- [Miscellaneous](#miscellaneous)
+- [Natural Language Processing Tools](#natural-language-processing-tools)
+
+## Programming AI Tools
+1. [Tabnine](https://www.tabnine.com/)
+2. [OpenAI Codex](https://openai.com/blog/openai-codex/)
+3. [GitHub Copilot](https://github.com/features/copilot)
+4. [AI Commit](https://github.com/abi/autocommit)
+5. [DeepCode](https://www.deepcode.ai/)
+6. [AI2Sql](https://www.ai2sql.io/)
+7. [Replit](https://replit.com/site/ghostwriter)
+8. [Akkio](https://www.akkio.com/)
+9. [Httpie](https://httpie.io/blog/ai)
+10. [Mutable](https://mutable.ai/)
+11. [Sheetplus](https://sheetplus.ai/)
+12. [ExcelFormulaBot](https://excelformulabot.com/)
+
+## Design Tools
+1. [Diagram](https://diagram.com/)
+2. [Vizcom](https://www.vizcom.ai/)
+3. [Namelix](https://namelix.com/)
+4. [Aragon](https://www.aragon.ai/)
+5. [Interior Design](https://interiorai.com/)
+6. [Visualize](https://visualise.ai/)
+7. [Lexica](https://lexica.art/)
+8. [Poly](https://poly.ai/)
+9. [Looka](https://looka.com/)
+10. [Stock AI](https://stockimg.ai/)
 
 ## AI-Powered Coding Assistants
-
-- [GitHub Copilot](https://copilot.github.com/) - An AI pair programmer powered by OpenAI’s GPT-3.
-- [Tabnine](https://www.tabnine.com/) - AI-powered code completion.
-
-## Automated Code Generation
-
-- [Yeoman](https://yeoman.io/) - A generator ecosystem to scaffold out new projects.
-- [JHipster](https://www.jhipster.tech/) - A development platform to generate, develop and deploy Spring Boot + Angular/React/Vue web applications and Spring microservices.
+1. [Kodezi](https://kodezi.io)
+2. [Replit Ghostwriter](https://replit.com/~)
 
 ## AI for Code Review
-
-- [Codacy](https://www.codacy.com/) - Automated code analysis/quality tool that helps developers ship better software, faster.
+1. [DeepCode](https://www.deepcode.ai/)
+2. [Codacy](https://www.codacy.com/)
 
 ## AI for Debugging
+1. [Rookout](https://www.rookout.com/)
+2. [Thundra](https://thundra.io/)
 
-- [Rookout](https://www.rookout.com/) - Rapid debugging solution which collects data on-the-fly from your live code and pipeline it immediately to any destination, such as alerting and monitoring tools.
+## Natural Language Processing Tools
+1. [OpenAI GPT-3](https://openai.com/)
+2. [Hugging Face Transformers](https://huggingface.co/transformers/)
 
-## Natural Language Processing
 
-- [ChatGPT](https://openai.com/research/chatgpt) - A language model by OpenAI.
-- [Wit.ai](https://wit.ai/) - Natural Language Processing for developers.
-
-## Miscellaneous
-
-- [AI21 Labs](https://www.ai21.com/) - Offering various AI-powered tools and platforms for developers.
-- [Hugging Face](https://huggingface.co/) - A platform for Natural Language Processing (NLP) tools and models.
-
-Feel free to contribute by forking this repository and submitting a pull request!
